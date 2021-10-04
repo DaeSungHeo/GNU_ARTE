@@ -1,0 +1,182 @@
+@font-face {
+    font-family: 'gmarket sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url(/font/GmarketSansTTFLight.ttf) format('truetype'),
+          url(/font/GmarketSansTTFLight.woff2) format('woff2'),
+          url(/font/GmarketSansTTFLight.woff) format('woff');
+  }
+  
+  @font-face {
+    font-family: 'gmarket sans';  
+    font-style: normal;
+    font-weight: 400;
+    src: url(/font/GmarketSansTTFMedium.ttf) format('truetype'),
+          url(/font/GmarketSansTTFMedium.woff2) format('woff2'),
+          url(/font/GmarketSansTTFMedium.woff) format('woff');
+  }
+  
+  @font-face {
+    font-family: 'gmarket sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url(/font/GmarketSansTTFBold.ttf) format('truetype'),
+          url(/font/GmarketSansTTFBold.woff2) format('woff2'),
+          url(/font/GmarketSansTTFBold.woff) format('woff');
+  }
+  
+  @font-face {
+    font-family: 'HSBombaram3_Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.1/HSBombaram3_Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'SeoulHangangM';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/SeoulHangangM.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GowunBatang-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'KoPubDotumMedium';
+   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/KoPubDotumMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+legend{display: none;}
+.hhh{top:0; background-color: #ffffff;
+  box-shadow: rgb(0 0 0 / 12%) 0px; transition: .8s;}
+.hhh.B{background-color: rgba(0, 0, 0, 0.7); height: 80px;}
+.hhh.B .nav-link.ks4.f18{color:#ffffff;}
+.hhh.B .lt_imgyyyyyy{display: none;}
+.hhh .hihi{display: none;}
+.hhh.B .hihi{display: block; width: 200px;}
+
+.hhh .hhd .nav-link.ks4.f18{font-family: 'gmarket sans'; font-weight: bold;}
+.lt_imgyyyyyy img{width: 200px;}
+#hdhd {position:relative; overflow: hidden;}
+#hdhd ul{
+ 
+  margin:0;
+}
+#hshs ul{margin:0;}
+#hdhd .haha .aab{position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);}
+  #hdhd .hshs ul li{font-size: 50px;} 
+#hdhd .hshs ul{font-size: 20px;}
+#hshs{text-align: center; font-size: 20px; overflow: hidden;}
+#hoho{ position: relative; overflow: hidden;}
+.video-background {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height:0;
+  
+}
+
+.video-background iframe {
+ 
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+  top:0; left:0; 
+ 
+}
+
+.hbhb p{ background-color: rgba(0, 0, 0, 0.7);   font-size: 15px;  font-family: 'gmarket sans';  }
+#hehe{position: relative; height: 510px; }
+#hehe .hll{font-size: 30px; font-family: 'gmarket sans'; font-weight: 600; text-align: center;     letter-spacing: -1px;} 
+#hehe >ul{flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;}
+#hehe .huhu{display:none}
+#hehe .hkhk{font-family: 'gmarket sans'; cursor: pointer;    }
+#hehe .hehe .hkhk P{font-family: 'gmarket sans'; }
+#hehe .hehe .hkhk .hphp{letter-spacing: -2px; font-family: 'KoPubDotumMedium'; }
+#hehe .hehe .hkhk.active .huhu{display: block;}
+#hehe .hoho {    font-size: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0 auto;}
+ 
+  #hehe .bigImg p{   
+    display: inline;
+    text-align: center;
+    top: 0%;
+    position: absolute;
+    line-height: 1.37;
+   
+   
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white; padding:20px; font-size: 15px;}
+  
+     
+
+
+
+#hehe .hehe .hkhk .hoho p::before{content: "";position: absolute; top:0; left: 0;width: 0; transition: .8s;
+  border-bottom: 3px dashed #747474;z-index: -1;  }
+    #hehe .hehe .hkhk.active .hoho p::before {width: 100%; height: 100%;}
+
+.bigImg{ right:0;left: 0; top: 100%;  bottom:0; transform: translateX(100%);transition: 0.5s; }
+.bigImg .huhu{ height: 0; padding-bottom: 60%; }
+.active .bigImg { transform: translateX(0);}
+
+
+.rimitab  li p{display: none;}
+.rimitab  li.active p{display: block;}
+
+#kjkj h2{font-size: 30px; font-family: 'gmarket sans'; font-weight: 600;}
+
+#kjkj .hphp p{margin:0;     padding: 20px;
+  font-size: 10px;
+  font-family: 'KoPubDotumMedium';
+}
+#kjkj .hphp span{font-size:10px;}
+
+.ijij h2{font-size: 30px; font-family: 'gmarket sans'; font-weight: 600;}
+.ijij .hop{font-size: 15px; font-family: 'KoPubDotumMedium';}
+.tap12{top: 50%;
+  font-family: 'MaruBuri-Regular';
+  left: 50%;
+  width: 100%;
+  text-align: center;
+  transform: translate(-50%, 50%);
+font-size: 10px;}
+.hop::before{content: ""; position: absolute;border-bottom: 3px dashed #747474;z-index: -1; width: 0; transition: .5s;}
+
+.active .hop::before{width: 100%;height: 100%;}
+footer{background-color: #212020;}
+@media(min-width:768px){
+  .hbhb p{ line-height: 2;}
+  #hehe .bigImg p{line-height: 4;}
+  .bigImg{
+    left:50%; top:0;}
+    #hehe{height: 680px;}
+    #hehe .hll{font-size: 50px;}
+    #hehe .hoho{font-size: 35px;}
+    #kjkj .hphp span{font-size: 20px;}
+    #kjkj .hphp p{margin:0;     padding: 20px;
+      font-size: 15px;
+      }
+      .ijij h2{font-size: 50px;}
+      #kjkj h2{font-size: 50px;}
+      .ijij .hop{font-size: 35px;}
+      .tap12{
+        transform: translate(-50%, 100%);
+      font-size: 20px;}
+}
