@@ -142,7 +142,27 @@ http://ety.kr/board/qa
 			?>
 <!----- 지도끝---->
 
+<!--- 퀵메뉴--->
+<aside id="quick">
+  <ul>
+    <li><a href="https://gjeotjd123.cafe24.com/ganu/" target="_blank">
+          <img src="/gnu/theme/ety_wide_theme/img/loo.png" title="">
+          <strong>허대성 포토폴리오</strong>
 
+        </a>
+    </li>
+    <li><a href="https://www.instagram.com/zooooooo_oooo/" target="_blank">
+        <img src="/gnu/theme/ety_wide_theme/img/loo.png" title="">
+          <strong>허대성 기획서</strong>
+
+          </a></li>
+    <li><a href="https://gjeotjd123.cafe24.com/0803/js.html/" target="_blank">
+      <img src="/gnu/theme/ety_wide_theme/img/loo.png" title="">
+        <strong>허대성 자기소개서</strong>
+
+    </a></li>
+  </ul>
+</aside>
 
 
 
